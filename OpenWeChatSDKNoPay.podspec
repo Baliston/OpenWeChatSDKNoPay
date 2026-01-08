@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name     = 'OpenWeChatSDKNoPay'
+  s.name     = 'WechatOpenSDK-NoPay'
   s.version  = '2.0.5'
   s.summary  = 'Local override of WechatOpenSDK NoPay XCFramework'
   s.homepage = 'https://open.weixin.qq.com/'   # put something real-ish
